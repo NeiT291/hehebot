@@ -26,7 +26,7 @@ module.exports = {
             .addFields([
                 {
                     name: 'Danh sách lệnh:',
-                    value: '`help` `anime` `avatar` `instagram` `lol` `ping` `say` `valorant`',
+                    value: '`help` `anime` `avatar` `instagram` `lol` `ping` `say` `val` `valm`',
                     inline: false
                 }
             ])
